@@ -1,0 +1,36 @@
+Curve: esecp160r1
+=================
+private key size = 21
+public key size = 40
+Sign time (ms):2031
+Verify time (ms):1217
+
+Curve: secp192r1
+================
+private key size = 24
+public key size = 48
+Sign time (ms):2273
+Verify time (ms):2052
+
+Curve: secp224r1
+================
+private key size = 28
+public key size = 56
+Sign time (ms):3321
+Verify time (ms):3244
+
+Curve: secp256r1
+================
+private key size = 32
+public key size = 64
+Sign time (ms):5106
+Verify time (ms):4996
+
+Curve: secp256k1
+================
+private key size = 32
+public key size = 64
+Sign time (ms):4475
+Verify time (ms):4182
+
+
